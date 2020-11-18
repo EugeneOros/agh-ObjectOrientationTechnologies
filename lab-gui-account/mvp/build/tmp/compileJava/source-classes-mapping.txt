@@ -1,0 +1,16 @@
+model/Category.java
+ model.Category
+model/generator/DataGenerator.java
+ model.generator.DataGenerator
+AccountApp.java
+ AccountApp
+model/Account.java
+ model.Account
+model/Transaction.java
+ model.Transaction
+presenter/TransactionEditDialogPresenter.java
+ presenter.TransactionEditDialogPresenter
+controller/AccountOverviewController.java
+ controller.AccountOverviewController
+controller/AccountAppController.java
+ controller.AccountAppController
